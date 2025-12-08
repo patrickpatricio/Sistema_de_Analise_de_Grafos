@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Sistema_de_Analise_de_Grafos/1.0.0": {
+        "runtime": {
+          "Sistema_de_Analise_de_Grafos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema_de_Analise_de_Grafos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
